@@ -15,3 +15,7 @@
 + [蓝牙BLE GATT完全分析和运用](https://blog.csdn.net/yueqian_scut/article/details/50752314)
 
 + [低功耗蓝牙BLE学习篇：低功耗蓝牙以及GATT的概念](https://blog.csdn.net/nigelyq/article/details/50850843?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
+
++ [5-BLE广播数据解析](https://blog.csdn.net/zxm528/article/details/94627177)
+
++ [BLE 广播数据解析](https://blog.csdn.net/cenzmin/article/details/79060939)
