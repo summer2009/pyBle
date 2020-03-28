@@ -1,6 +1,6 @@
 # BLE 传感器 应用
 
-## 手机 RaspbPI 蓝牙传感器
+## 蓝牙ble基础
 
 + [Introduction to Bluetooth Low Energy](https://learn.adafruit.com/introduction-to-bluetooth-low-energy?view=all)
 
@@ -19,3 +19,7 @@
 + [5-BLE广播数据解析](https://blog.csdn.net/zxm528/article/details/94627177)
 
 + [BLE 广播数据解析](https://blog.csdn.net/cenzmin/article/details/79060939)
+
+## bluepy
+
++ [bluepy 一款python封装的BLE利器](https://www.bbsmax.com/A/QV5ZG9x4dy/)
