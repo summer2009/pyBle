@@ -23,3 +23,7 @@
 ## bluepy
 
 + [bluepy 一款python封装的BLE利器](https://www.bbsmax.com/A/QV5ZG9x4dy/)
+
+## 相关linux命令
+
++ [linux下程序后台运行](https://www.cnblogs.com/andylhc/p/9721705.html)
