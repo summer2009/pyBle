@@ -20,6 +20,9 @@
 
 + [BLE 广播数据解析](https://blog.csdn.net/cenzmin/article/details/79060939)
 
++ [BLE 物理层](https://blog.csdn.net/ZQ07506149/article/details/85225731)
+
+
 ## bluepy
 
 + [bluepy 一款python封装的BLE利器](https://www.bbsmax.com/A/QV5ZG9x4dy/)
